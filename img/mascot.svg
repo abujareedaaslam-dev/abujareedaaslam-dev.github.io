@@ -1,27 +1,64 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" role="img" aria-label="Ops">
-  <style>@keyframes b{0%,93%,100%{transform:scaleY(1)}96.5%{transform:scaleY(.08)}}@keyframes w{from{transform:rotate(-7deg)}to{transform:rotate(12deg)}}.ey{transform-origin:100px 101px;animation:b 4.2s 2.8s infinite}.wv{animation:w .55s ease-in-out infinite alternate}@media(prefers-reduced-motion:reduce){.ey,.wv{animation:none}}</style>
-  <defs><clipPath id="r"><rect width="200" height="240" rx="28"/></clipPath></defs>
-  <g clip-path="url(#r)">
-    <rect width="200" height="240" fill="#F5D9CC"/>
-    <circle cx="100" cy="104" r="88" fill="#4a4038" opacity=".2"/>
-    <circle cx="100" cy="104" r="66" fill="#fff" opacity=".35"/>
-    <rect y="214" width="200" height="26" fill="#4a4038" opacity=".22"/>
-    <path transform="translate(26 34) scale(1.0)" d="M0 -10 Q1.6 -1.6 10 0 Q1.6 1.6 0 10 Q-1.6 1.6 -10 0 Q-1.6 -1.6 0 -10 Z" fill="#E14A10" opacity="1"/><path transform="translate(176 58) scale(0.7)" d="M0 -10 Q1.6 -1.6 10 0 Q1.6 1.6 0 10 Q-1.6 1.6 -10 0 Q-1.6 -1.6 0 -10 Z" fill="#4a4038" opacity="1"/><path transform="translate(22 150) scale(0.55)" d="M0 -10 Q1.6 -1.6 10 0 Q1.6 1.6 0 10 Q-1.6 1.6 -10 0 Q-1.6 -1.6 0 -10 Z" fill="#4a4038" opacity="1"/><path transform="translate(180 186) scale(0.5)" d="M0 -10 Q1.6 -1.6 10 0 Q1.6 1.6 0 10 Q-1.6 1.6 -10 0 Q-1.6 -1.6 0 -10 Z" fill="#E14A10" opacity="0.8"/>
-    <ellipse cx="100" cy="229" rx="44" ry="6" fill="#4A2418" opacity=".22"/>
-    <rect x="81" y="194" width="14" height="28" rx="7" fill="#33200f"/><rect x="105" y="194" width="14" height="28" rx="7" fill="#33200f"/><ellipse cx="86" cy="223" rx="12" ry="6.5" fill="#1c0e08"/><ellipse cx="114" cy="223" rx="12" ry="6.5" fill="#1c0e08"/>
-    <path d="M74 150 Q100 132 126 150 L131 199 Q100 208 69 199 Z" fill="#4a4038"/>
-    <path d="M86 142 L100 172 L114 142 Z" fill="#F5D9CC"/><path d="M100 152 L97 158 L100 168 L103 158 Z" fill="#E14A10"/><circle cx="100" cy="182" r="2.4" fill="#E14A10"/><circle cx="100" cy="192" r="2.4" fill="#E14A10"/>
-    <path d="M74 158 Q58 168 58 186" fill="none" stroke="#4a4038" stroke-width="13" stroke-linecap="round"/>
-    <path d="M126 158 Q146 160 150 144" fill="none" stroke="#4a4038" stroke-width="13" stroke-linecap="round"/>
-    <circle cx="47" cy="98" r="8.5" fill="#dfa277"/><circle cx="153" cy="98" r="8.5" fill="#dfa277"/><circle cx="47" cy="98" r="4" fill="#c48f69"/><circle cx="153" cy="98" r="4" fill="#c48f69"/>
-    <ellipse cx="100" cy="92" rx="54" ry="50" fill="#dfa277"/>
-    <path d="M47 90 Q40 34 100 34 Q160 34 153 90 Q150 72 140 64 Q100 54 66 66 Q54 72 47 90 Z" fill="#231510"/><path d="M72 44 Q76 56 70 64" fill="none" stroke="#000" stroke-width="2" opacity=".35" stroke-linecap="round"/><path d="M68 54 Q82 44 98 43" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" opacity=".22"/>
-    <ellipse cx="65" cy="114" rx="9" ry="5.5" fill="#ff7a59" opacity=".5"/><ellipse cx="135" cy="114" rx="9" ry="5.5" fill="#ff7a59" opacity=".5"/>
-    <g class="ey"><ellipse cx="80" cy="100" rx="7.5" ry="9.5" fill="#2a140c"/><circle cx="82.6" cy="96" r="3" fill="#fff"/><circle cx="77.4" cy="104" r="1.4" fill="#fff"/><ellipse cx="120" cy="100" rx="7.5" ry="9.5" fill="#2a140c"/><circle cx="122.6" cy="96" r="3" fill="#fff"/><circle cx="117.4" cy="104" r="1.4" fill="#fff"/></g><path d="M72 85 Q80 81 87 84 M113 84 Q120 81 128 85" fill="none" stroke="#231510" stroke-width="2.8" stroke-linecap="round"/>
-    <path d="M94 116 Q100 118.5 106 116" fill="none" stroke="#2a140c" stroke-width="3" stroke-linecap="round"/>
-    <circle cx="80" cy="100" r="14" fill="#fff" fill-opacity=".12" stroke="#2a140c" stroke-width="3"/><circle cx="120" cy="100" r="14" fill="#fff" fill-opacity=".12" stroke="#2a140c" stroke-width="3"/><path d="M94 99 Q100 95 106 99" fill="none" stroke="#2a140c" stroke-width="3"/>
-    <g transform="translate(151 141)"><path d="M-4 -28 Q-8 -34 -3 -39 M5 -28 Q1 -34 6 -40" fill="none" stroke="#F5D9CC" stroke-width="2.6" stroke-linecap="round" opacity=".8"/><path d="M10 -18 Q21 -18 21 -9 Q21 0 10 -2" fill="none" stroke="#F5D9CC" stroke-width="4"/><rect x="-11" y="-23" width="23" height="24" rx="5" fill="#F5D9CC"/><rect x="-11" y="-15" width="23" height="5" fill="#E14A10"/></g>
-    <circle cx="58" cy="189" r="7.5" fill="#dfa277"/>
-    <circle cx="151" cy="141" r="7.5" fill="#dfa277"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Cartoon portrait of Abu Jareeda Aslam">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="38%" r="75%"><stop offset="0" stop-color="#F5D9CC"/><stop offset="1" stop-color="#EBB79C"/></radialGradient>
+    <clipPath id="frame"><rect width="400" height="400" rx="0"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="400" height="400" fill="url(#bg)"/>
+    <circle cx="200" cy="190" r="150" fill="#E14A10" opacity=".16"/>
+    <circle cx="200" cy="190" r="112" fill="#E14A10" opacity=".14"/>
+    <path d="M62 70l5 13 13 5-13 5-5 13-5-13-13-5 13-5z" fill="#E14A10"/>
+    <path d="M338 96l3.5 9 9 3.5-9 3.5-3.5 9-3.5-9-9-3.5 9-3.5z" fill="#140804" opacity=".55"/>
+    <path d="M330 262l3 8 8 3-8 3-3 8-3-8-8-3 8-3z" fill="#E14A10"/>
+
+    <!-- shoulders: navy blazer, striped shirt -->
+    <path d="M52 400c4-62 44-92 100-102l48 22 48-22c56 10 96 40 100 102z" fill="#1F2A4D"/>
+    <path d="M152 298l48 102 48-102-22-10h-52z" fill="#F4F1EC"/>
+    <path d="M176 300v84M188 304v96M200 306v94M212 304v96M224 300v84" stroke="#C9BFB2" stroke-width="2" fill="none"/>
+    <path d="M152 298l-14 8 42 78 20-58z" fill="#28376A"/>
+    <path d="M248 298l14 8-42 78-20-58z" fill="#28376A"/>
+    <path d="M178 290l22 36 22-36-10-8h-24z" fill="#FFFFFF"/>
+    <path d="M178 290l-12 22 34 14zM222 290l12 22-34 14z" fill="#F4F1EC" stroke="#D8CEC1" stroke-width="2"/>
+    <circle cx="268" cy="342" r="13" fill="#C9A24A"/><circle cx="268" cy="342" r="8" fill="#1F2A4D"/>
+
+    <!-- neck -->
+    <path d="M174 252h52v40c-8 12-44 12-52 0z" fill="#E2A77F"/>
+    <path d="M174 268c14 12 38 12 52 0v-12h-52z" fill="#C98E68"/>
+
+    <!-- ears -->
+    <ellipse cx="121" cy="192" rx="13" ry="20" fill="#EDB58E"/><ellipse cx="279" cy="192" rx="13" ry="20" fill="#EDB58E"/>
+    <path d="M118 184c6 2 8 10 5 18M282 184c-6 2-8 10-5 18" stroke="#C98E68" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+    <!-- head -->
+    <path d="M124 170c0-58 34-92 76-92s76 34 76 92c0 62-32 104-76 104s-76-42-76-104z" fill="#F1BE98"/>
+
+    <!-- beard: short, along the jaw, with moustache -->
+    <path d="M126 196c2 50 30 80 74 80s72-30 74-80c-6 22-14 34-26 40-10-12-30-14-48-14s-38 2-48 14c-12-6-20-18-26-40z" fill="#241510"/>
+    <path d="M170 236c8-9 20-11 30-6 10-5 22-3 30 6-10-3-20-2-30 2-10-4-20-5-30-2z" fill="#241510"/>
+    <!-- mouth -->
+    <path d="M180 246c12 9 28 9 40 0-4 13-36 13-40 0z" fill="#FFFFFF"/>
+    <path d="M180 246c12 9 28 9 40 0" stroke="#7A3B2A" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+    <!-- nose -->
+    <path d="M200 190c-3 14-9 22-8 28 5 5 12 5 17 0" stroke="#C98E68" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <!-- brows -->
+    <path d="M146 163c10-9 28-10 40-3" stroke="#1B0F0A" stroke-width="8" fill="none" stroke-linecap="round"/>
+    <path d="M254 163c-10-9-28-10-40-3" stroke="#1B0F0A" stroke-width="8" fill="none" stroke-linecap="round"/>
+
+    <!-- eyes -->
+    <ellipse cx="166" cy="188" rx="9" ry="11" fill="#1B0F0A"/><ellipse cx="234" cy="188" rx="9" ry="11" fill="#1B0F0A"/>
+    <circle cx="169" cy="184" r="3.2" fill="#fff"/><circle cx="237" cy="184" r="3.2" fill="#fff"/>
+
+    <!-- glasses: thin rounded rectangular frames -->
+    <rect x="137" y="168" width="58" height="42" rx="13" fill="#FFFFFF" fill-opacity=".16" stroke="#3A2A22" stroke-width="4.5"/>
+    <rect x="205" y="168" width="58" height="42" rx="13" fill="#FFFFFF" fill-opacity=".16" stroke="#3A2A22" stroke-width="4.5"/>
+    <path d="M195 184c3-4 7-4 10 0M137 182l-15-4M263 182l15-4" stroke="#3A2A22" stroke-width="4.5" fill="none" stroke-linecap="round"/>
+    <path d="M146 176l10-4M214 176l10-4" stroke="#fff" stroke-width="3" stroke-linecap="round" opacity=".7"/>
+
+    <!-- hair: dark, swept up and back, short sides -->
+    <path d="M122 182c-8-34-2-70 20-92 18-20 50-30 80-24 34 6 58 30 60 66 1 18-1 36-4 50-4-22-10-38-20-50-22 8-62 10-96-4-20 8-32 26-40 54z" fill="#1B0F0A"/>
+    <path d="M150 92c22-20 62-24 94-8 20 10 32 26 36 46-12-18-30-30-52-34-28-5-56 0-78 16z" fill="#2E1B13"/>
+    <path d="M170 86c20-10 44-10 64-2M160 104c26-12 58-12 86 0" stroke="#4A2E20" stroke-width="3" fill="none" stroke-linecap="round" opacity=".8"/>
   </g>
 </svg>
